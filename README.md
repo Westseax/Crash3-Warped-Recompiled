@@ -73,6 +73,12 @@ Open an issue with the level name and a short description of what happened.
 
 Please don't ask where to download the game, and never attach disc images or generated game code.
 
+## Known issues:
+
+Coco & Fake Crash are not fully functionals, since they do NOT exist in the game files to be played, it is just an experiment (maybe, I'll fix it)
+Widescreen & Rendering: Since the game was made to run in a PS1, the widescreen rendering is known to be plagued by "black polygons", I made a fix to it,
+however you'll still see some weird renderings because the game was engineered to run in this specifically way. I'll try my best to fix it to be seemless in future updates.
+
 ## Thanks
 
 - **RecompOne** by flaffy: the static PS1 recompiler and runtime this is built on (MIT).
