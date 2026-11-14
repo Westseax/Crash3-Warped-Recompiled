@@ -1,5 +1,7 @@
 # Crash Bandicoot 3: Warped Recompiled
 
+![Crash Bandicoot 3: Warped Recompiled](docs/images/crash3-banner-2.jpg)
+
 Unofficial fan project.
 
 Crash Bandicoot 3: Warped (PS1, 1998), running natively on PC. In widescreen, at up to 240 FPS, at up to 6x resolution.
@@ -7,6 +9,8 @@ Crash Bandicoot 3: Warped (PS1, 1998), running natively on PC. In widescreen, at
 This isn't an emulator. The original PS1 code is statically recompiled into a native program **on your own machine**, then given upgrades the PS1 never had: a real 16:9 view, high frame rates, high resolutions, mods and cheats.
 
 ## What you get
+
+![From 4:3 CRT to 16:9 at 240 FPS](docs/images/crash3-widescreen-1.jpg)
 
 - **Native widescreen (16:9).** The game draws more of the world on both sides instead of stretching the image.
 - **High frame rate.** Up to 240 FPS, capped to your monitor.
@@ -54,6 +58,8 @@ The first launch builds the game from your disc on your PC, which takes a moment
 Settings, memory cards and logs are saved in the game folder.
 
 ## How it works
+
+![Your disc, built into a native PC game on your own machine](docs/images/crash3-build-on-pc-2.jpg)
 
 1. You point the launcher at your disc.
 2. The [RecompOne](https://github.com/BlackLabelHQ/RecompOne) recompiler translates the game's MIPS code into C# and compiles it on your PC. Nothing is uploaded anywhere.
