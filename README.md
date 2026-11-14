@@ -75,6 +75,7 @@ Please don't ask where to download the game, and never attach disc images or gen
 
 ## Known issues:
 
+Some models might seem "a bit off", this is normal due to a combination of factors such as FPS and Resolution (I'll definitely fix it)
 Coco & Fake Crash are not fully functionals, since they do NOT exist in the game files to be played, it is just an experiment (maybe, I'll fix it)
 Widescreen & Rendering: Since the game was made to run in a PS1, the widescreen rendering is known to be plagued by "black polygons", I made a fix to it,
 however you'll still see some weird renderings because the game was engineered to run in this specifically way. I'll try my best to fix it to be seemless in future updates.
